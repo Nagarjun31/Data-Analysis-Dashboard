@@ -52,3 +52,28 @@ o	Example: Excellent condition with "Good" view averages over 2.6 million.
 
 ## Dashboard
 ![Screenshot (1)](https://github.com/user-attachments/assets/543268a5-1610-41d0-88d0-384af9e80d9c)
+
+# Project Insights
+1.	Peak Average Prices in Early July 2014
+o	Daily average price trends show noticeable spikes around early July, suggesting higher-value transactions occurred during this period.
+2.	Majority of Homes Priced Between $200K–$600K
+o	The price distribution histogram reveals that most house sales fall within this mid-range price band, indicating a strong middle-market segment.
+3.	3–4 Bedrooms and 2–3 Bathrooms Are Most Common
+o	Histograms show these configurations dominate the housing stock, highlighting standard family-sized homes as the most frequent property type sold.
+4.	Newer Homes Don't Always Correlate With Higher Prices
+o	Filtering by year built and price reveals that while some newer homes command higher prices, location and condition have stronger influence on pricing.
+5.	Geographic Disparity in Pricing
+o	The map reveals significant variation in average prices across counties—areas around Seattle and Bellevue have much higher average prices compared to southern and rural regions.
+6.	Condition and View Have a Clear Impact on Price
+o	Homes in excellent condition and with good views consistently command higher prices, as shown in the condition-view-price matrix.
+7.	Low Frequency of High-End Properties
+o	The price distribution shows a long tail, indicating that while luxury homes exist, they are much less common in the dataset.
+
+# Project Conclusion
+The Washington Sales House Dashboard provided a comprehensive and interactive view of the housing market in Washington State, with a focused analysis on July 2014. Through the use of Tableau’s dynamic visualizations—including maps, trend lines, histograms, and filter controls—the project successfully uncovered key trends and patterns in home sales.
+## Key conclusions drawn from the analysis include:
+•	Most homes sold during the period were mid-range properties with 3–4 bedrooms and 2–3 bathrooms.
+•	Significant regional price disparities exist, with urban centers like Seattle showing considerably higher average prices.
+•	Property condition and view quality significantly affect pricing, often more than age or size alone.
+•	The market showed seasonal activity, with pricing peaks around early July.
+This project demonstrates the power of data visualization in real estate analytics, enabling stakeholders to derive actionable insights and make informed decisions. It highlights Tableau’s capability to bring clarity and interactivity to complex datasets.
