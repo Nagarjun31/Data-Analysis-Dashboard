@@ -47,3 +47,8 @@ o	Example: Excellent condition with "Good" view averages over 2.6 million.
 ## Explore geographic variations
 ## Filter data by home features (year, size, condition)
 ## Examine how factors like view and condition affect pricing
+## Dashboard Interaction 
+-<a href="https://github.com/Nagarjun31/Data-Analysis-Dashboard/blob/main/Dashboard.img.png">View Dashboard</a>
+
+## Dashboard
+![Screenshot (1)](https://github.com/user-attachments/assets/543268a5-1610-41d0-88d0-384af9e80d9c)
